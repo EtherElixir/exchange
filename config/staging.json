@@ -1,0 +1,15 @@
+{
+  "tokens": [
+    { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "decimals": 18 },
+    { "addr": "0xbdd01edcfecd665d5ce2bbf28eb8d692c7190796", "name": "BESC", "decimals": 18 },
+	{ "addr": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec", "name": "POLY", "decimals": 18 },
+	{ "addr": "0x0d8775f648430679a709e98d2b0cb6250d2887ef", "name": "BAT", "decimals": 18 },
+    { "addr": "0xd318a06bb06e890522b10f45d49d38442eb65cad", "name": "NK", "decimals": 18 },
+    { "addr": "0x90b6140b640e9f53da990e4437b82c1b7ff1ae32", "name": "AEO", "decimals": 18 },
+    { "addr": "0x3cb896222e7d9a3a7403a37806d0034ee97d1737", "name": "BX", "decimals": 18 },
+	{ "addr": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0", "name": "EOS", "decimals": 18 },
+	{ "addr": "0xb8c77482e45f1f44de1745f52c74426c631bdd52", "name": "BNB", "decimals": 18 },
+    { "addr": "0xf230b790e05390fc8295f4d3f60332c93bed42e2", "name": "TRX", "decimals": 6 },
+	{ "addr": "0xd850942ef8811f2a866692a623011bde52a462c1", "name": "VEN", "decimals": 18 },
+  ],
+};
